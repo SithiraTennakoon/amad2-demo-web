@@ -1,0 +1,53 @@
+.title {
+    color: blue;
+    background-color: brown;
+    font-family: cursive;
+}
+
+.btn {
+    background-color: red;
+    padding: 7px;
+    color: white;
+    border-radius: 100%;
+    border: 2px solid green;
+}
+
+.type {
+    border-radius: 100px;
+    border: 2px solid red;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: sticky;
+    top: 0px;
+    z-index: -1;
+}
+
+.my-btn {
+    background-color: darkblue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border: 5px solid green;
+    margin-left: 40px;
+}
+
+.main {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+}
+
+.para {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 60vw;
+}
+
+.login {
+    border: 2px solid blue;
+    width: 25%;
+    margin-top: 10px;
+}
